@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DBInfo>
+  <db>
+    <dbtype>oracle</dbtype>
+    <jdbcurl>jdbc:oracle:thin:@127.0.0.1:1529:develop</jdbcurl>
+    <username>user</username>
+    <password>pswd</password>  
+  </db>
+  <db>
+    <dbtype>mysql</dbtype>
+    <jdbcurl>jdbc:mysql://localhost/develop</jdbcurl>
+    <username>user</username>
+    <password>pswd</password>  
+  </db>  
+  <db>
+    <dbtype>h2</dbtype>
+    <jdbcurl>jdbc:h2:file:./h2/ddl_generator</jdbcurl>
+    <username>sa</username>
+    <password></password>  
+  </db>   
+</DBInfo>
