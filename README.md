@@ -17,8 +17,8 @@ DDLGeneratorはOracle、MySQLといったDBから指定したテーブルのデ�
 * **留意事項**  
   ディクショナリデータが取得できる環境、ユーザーであること。  
   
-*依存ライブラリ*
-  commons-io-2.4.jar
+*依存ライブラリ*  
+  commons-io-2.4.jar  
   h2-1.4.179.jar  
-  mysql-connector-java-5.1.31.jar
+  mysql-connector-java-5.1.31.jar  
   
